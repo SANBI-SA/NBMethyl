@@ -1,0 +1,311 @@
+==========================================================================================================
+                                                 TARGET samples
+==========================================================================================================
+
+===============
+MYCN Amplified
+===============
+
+PAIVZR
+PALEVG
+PALZRG
+PALZZV
+PAMCXF
+PAMMXF
+PAMZGT
+PAMZMG
+PANUKV
+PAPBJE
+PAPCTS
+PAPEFE
+PAPKWN
+PAPRXW
+PAPSEI
+PAPTFZ
+PAPTIP
+PAPTLV
+PAPTLY
+PAPTMM
+PAPZYP
+PAPZYZ
+PARABN
+PARDYU
+PARETE
+PARIKF
+PARIRD
+PARNEE
+PARNTS
+PARRBU
+PARSHT
+PARSRJ
+PASCLP
+PASDZJ
+PASJYB
+PASNZU
+PASSRN
+PASVRU
+PASWFB
+PASWYR
+PASXIE
+PATDWN
+PATESI
+PATFXV
+PATGWT
+==============
+
+MYCN non-amplified
+
+==============
+
+PAITCI
+PAIVHE
+PALBFW
+PALCBW
+PALETP
+PALHVD
+PALIIN
+PALNVP
+PALSAE
+PALUDH
+PALXTB
+PAMYCE
+PANBSP
+PANKFE
+PANNMS
+PANRHJ
+PANRRW
+PANRVJ
+PANUIF
+PANWRR
+PANYGR
+PANZPV
+PANZVU
+PAPBGH
+PAPBZI
+PAPEAV
+PAPHPE
+PAPKXS
+PAPSKM
+PAPTLD
+PAPUAR
+PAPUWY
+PAPVFD
+PAPVXS
+PAPWUC
+PARACS
+PARAHE
+PARBGP
+PARDIW
+PARDUJ
+PARDVT
+PAREGK
+PARFWB
+PARGDJ
+PARGKK
+PARGUX
+PARHYL
+PARKGJ
+PARNCW
+PARSBI
+PARURB
+PARVME
+PARXLM
+PARYNK
+PARZIP
+PASATK
+PASAZJ
+PASCUF
+PASFGG
+PASGPY
+PASKJX
+PASLGS
+PASMNT
+PASNEF
+PASPER
+PASRFS
+PASSRS
+PASTCN
+PASTKC
+PASUCB
+PASUYG
+PASWIJ
+PASXHE
+PASXRJ
+PASYPX
+PATCFL
+PATDXC
+PATFCY
+PATGLU
+PATHVK
+PATNKP
+
+
+===================================================================================================================
+						Machine Learning
+						Testing Samples
+===================================================================================================================
+
+==============
+GSE54721
+==============
+
+--------------
+MYCN Amplified
+--------------
+
+GSM1322757/NB7 - Stage 3
+GSM1322760/NB10 - Stage 1
+GSM1322769/NB19 - Stage 4
+GSM1322771/NB21 - Stage 4
+GSM1322777/NB27 - Stage 4
+GSM1322778/NB28 - Stage 4
+GSM1322783/NB33 - Stage 4
+
+--------------
+MYCN non-amplified
+--------------
+GSM1322751/NB1 - Stage 1
+GSM1322752/NB2 - Stage 4s
+GSM1322753/NB3 - Stage 4s
+GSM1322754/NB4 - Stage 4
+GSM1322755/NB5 - Stage 1
+GSM1322756/NB6 - Stage 3
+GSM1322758/NB8 - Stage 1
+GSM1322759/NB9 - Stage 3
+GSM1322761/NB11 - Stage 4s
+GSM1322762/NB12 - Stage 3
+GSM1322763/NB13 - Stage 4
+GSM1322764/NB14 - Stage 3
+GSM1322765/NB15 - Stage 4
+GSM1322766/NB16 - Stage 4
+GSM1322767/NB17 - Stage 3
+GSM1322768/NB18 - Stage 1
+GSM1322770/NB20 - Stage 1
+GSM1322772/NB22 - Stage 4
+GSM1322773/NB23 - Stage 4
+GSM1322774/NB24 - Stage 4s
+GSM1322775/NB25 - Stage 3
+GSM1322776/NB26 - Stage 4
+GSM1322779/NB29 - Stage 4s
+GSM1322780/NB30 - Stage 4
+GSM1322781/NB31 - Stage 3
+GSM1322782/NB32 - Stage 4s
+GSM1322784/NB34 - Stage 3
+GSM1322785/NB35 - Stage 4
+
+
+==============
+GSE65306
+==============
+
+--------------
+MYCN Amplified
+--------------
+
+GSM1592147/NB1 - Stage 4
+GSM1592171/NB2 - Stage 4
+GSM1592173/NB3 - Stage 2B
+GSM1592175/NB4 - Stage 4
+GSM1592177/NB5 - Stage 4
+
+
+--------------
+MYCN non-amplified
+--------------
+GSM1592181/NB8 - Stage 4
+GSM1592183/NB9 - Stage 4
+GSM1592149/NB11 - Stage 4
+GSM1592155/NB12 - Stage 2A
+GSM1592160/NB13 - Stage 3
+GSM1592165/NB15 - Stage 4
+
+==============
+GSE120650
+==============
+
+--------------
+MYCN Amplified
+--------------
+
+#GSE120650
+
+GSM3406972/NBL61 - Stage 1
+GSM3406984/NBL185 - Stage 1
+GSM3406988/NBL28 - Stage 4
+GSM3406991/NBL32 - Stage 4
+GSM3406994/NBL259 - Stage 4
+GSM3406999/NBL54 - Stage 2
+GSM3407013/NBL159 - Stage 3
+GSM3407015/NBL140 - Stage 4
+GSM3407016/NBL71 - Stage 4
+GSM3407019/NBL130 - Stage 4s
+GSM3407020/NBL172 - Stage 4s
+GSM3407022/NBL191 - Stage 4
+GSM3407023/NBL200 - Stage 2
+GSM3407027/NBL21 - Stage 4
+GSM3407028/NBL274 - Stage 2
+
+
+--------------
+MYCN non-amplified
+--------------
+
+GSM3406971/NBL49 - Stage 4
+GSM3406973/NBL97 - Stage 1
+GSM3406974/NBL99 - Stage 1
+GSM3406975/NBL100 - Stage 4s
+GSM3406976/NBL16 - Stage 4
+GSM3406977/NBL106 - Stage 4
+GSM3406978/NBL116 - Stage 2
+GSM3406979/NBL123 - Stage 4
+GSM3406980/NBL132 - Stage 4s
+GSM3406981/NBL151 - Stage 1
+GSM3406982/NBL152 - Stage 2
+GSM3406983/NBL180 - Stage 1
+GSM3406985/NBL192 - Stage 4s
+GSM3406986/NBL193 - Stage 2
+GSM3406987/NBL194 - Stage 4
+GSM3406989/NBL216 - Stage 4
+GSM3406990/NBL230 - Stage 4
+GSM3406992/NBL48 - Stage 4
+GSM3406993/NBL253 - Stage 4
+GSM3406995/NBL60 - Stage 4
+GSM3406996/NBL263 - Stage 4
+GSM3406997/NBL275 - Stage 4
+GSM3406998/NBL277 - Stage 4
+GSM3407000/NBL282 - Stage 4
+GSM3407001/NBL339 - Stage 4
+GSM3407002/NBL351 - Stage 4
+GSM3407003/NBL368 - Stage 4
+GSM3407004/NBL17 - Stage 4
+GSM3407005/NBL383 - Stage 4
+GSM3407006/NBL391 - Stage 4
+GSM3407007/NBL41 - Stage 2
+GSM3407008/NBL169 - Stage 2
+GSM3407009/NBL8 - Stage 2
+GSM3407010/NBL40 - Stage 3
+GSM3407011/NBL42 - Stage 3
+GSM3407012/NBL147 - Stage 3
+GSM3407014/NBL150 - Stage 4
+GSM3407017/NBL167 - Stage 4s
+GSM3407018/NBL12 - Stage 4s
+GSM3407021/NBL144 - Stage 4s
+GSM3407024/NBL245 - Stage 1
+GSM3407025/NBL266 - Stage 4
+GSM3407026/NBL217 - Stage 3
+
+==================================================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+

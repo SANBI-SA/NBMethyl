@@ -1,0 +1,185 @@
+==========================================================================================================
+                                                 TARGET samples 
+==========================================================================================================
+
+---------------
+Relapse + MYCN Amplified (RM) 
+---------------
+
+PALZRG
+PAMMXF
+PAMZGT
+PAMZMG
+PANUKV
+PAPCTS
+PAPKWN
+PAPSEI
+PAPTFZ
+PAPTIP
+PAPTLV
+PARABN
+PARSRJ
+PASCLP
+PASJYB
+PASNZU
+PATESI
+PATGWT
+
+
+---------------
+Censored + MYCN Non-Amplified (CNM) 
+---------------
+
+PALCBW
+PALNVP
+PALUDH
+PALXTB
+PANKFE
+PANNMS
+PANRVJ
+PANUIF
+PAPEAV
+PAPUAR
+PAPWUC
+PARACS
+PARDIW
+PARDVT
+PAREGK
+PARGUX
+PARHYL
+PARYNK
+PASAZJ
+PASNEF
+PASTKC
+PASUCB
+PASWIJ
+PASXHE
+PATCFL
+
+---------------
+Relapse + MYCN Non-Amplified (RNM) 
+---------------
+
+PALBFW
+PALHVD
+PALIIN
+PAMYCE
+PANBSP
+PANRHJ
+PANRRW
+PANZPV
+PAPBGH
+PAPHPE
+PAPKXS
+PAPSKM
+PAPTLD
+PAPUWY
+PARAHE
+PARBGP
+PARFWB
+PARGDJ
+PARKGJ
+PARSBI
+PARVME
+PARZIP
+PASATK
+PASCUF
+PASGPY
+PASKJX
+PASRFS
+PASSRS
+PASTCN
+PASUYG
+PATGLU
+
+
+---------------
+Censored + MYCN Amplified (CM) 
+---------------
+
+PALEVG
+PAPBJE
+PAPRXW
+PAPTLY
+PAPTMM
+PAPZYP
+PAPZYZ
+PARIKF
+PARNTS
+PARSHT
+PASSRN
+PASWYR
+PASXIE
+PATDWN
+
+
+
+===================================================================================================================
+						Machine Learning
+						Testing Samples
+===================================================================================================================
+
+==============
+GSE65306
+==============
+
+--------------
+MYCN Amplified
+--------------
+
+GSM1592147/NB1 - Stage 4
+GSM1592171/NB2 - Stage 4
+GSM1592173/NB3 - Stage 2B
+GSM1592175/NB4 - Stage 4
+GSM1592177/NB5 - Stage 4
+
+
+--------------
+MYCN non-amplified
+--------------
+GSM1592181/NB8 - Stage 4
+GSM1592183/NB9 - Stage 4
+GSM1592149/NB11 - Stage 4
+GSM1592155/NB12 - Stage 2A
+GSM1592160/NB13 - Stage 3
+GSM1592165/NB15 - Stage 4
+
+
+
+==============
+GSE120650
+==============
+
+--------------
+MYCN Amplified
+--------------
+
+GSM3406991/NBL32 - Stage 4
+GSM3406972/NBL61 - Stage 1
+GSM3407016/NBL71 - Stage 4
+
+--------------
+MYCN non-amplified
+--------------
+
+GSM3406993/NBL253 - Stage 4
+GSM3406971/NBL49 - Stage 4
+GSM3407011/NBL42 - Stage 3
+GSM3407024/NBL245 - Stage 1
+
+
+==================================================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
