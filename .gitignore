@@ -37,3 +37,9 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# Output images
+/output/images
+
+# Jupyter hiden dir
+/Python/.ipynb_checkpoints/
