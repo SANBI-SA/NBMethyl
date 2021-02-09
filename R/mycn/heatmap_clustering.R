@@ -16,7 +16,7 @@
 
 #Heatmap plot
 library(gplots)
-data <- as.matrix(read.csv("../../Data-Files/Mycn/heatmap.csv", row.names=1))
+data <- as.matrix(read.csv("../../data-files/mycn/heatmap.csv", row.names=1))
 colours <- rep(c("black", "pink"), c(45,81))
 tiff(file = "../../output/images/MYCN-amp-heat.tiff", width = 2200, height = 1280, res=300)
 heatmap.2(data, trace = "none", dendrogram = "col", col=heat.colors(14),
@@ -25,7 +25,7 @@ dev.off()
 
 #Clustering dendrogram
 library(factoextra)
-data <- as.matrix(read.csv("../../Data-Files/Mycn/Clustering.csv", row.names=1))
+data <- as.matrix(read.csv("../../data-files/mycn/clustering.csv", row.names=1))
 res.hk <- hkmeans(data, 2)
 tiff(file = "../../output/images/AvNA-Cluster.tiff", width = 4000, height = 3000, res=300)
 hkmeans_tree(res.hk, cex=0.6, main="")
